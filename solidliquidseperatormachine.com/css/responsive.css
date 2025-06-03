@@ -1,0 +1,121 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+nav.mobile-menu {display: block !important; position: relative; top: 1px !important; }
+.fennec-nav ul {    display: none !important;}
+.logo img {    width: 100% !important;}
+.navigation {    text-align: right !important;}
+.slider-content {    z-index: 9 !important;  position: relative !important;    top: 120px !important;}
+.why-proactive_inner {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;    margin-bottom: 30px !important;}
+.small-widget {    width: 50% !important;    flex: auto !important;    max-width: 50% !important;    margin-bottom: 30px !important;}
+.small-link {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+.slider-content p{  padding-right: inherit !important;}
+}
+
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+nav.mobile-menu {    display: block !important;}
+nav.mobile-menu {display: block !important; position: relative; top: 20px;}
+.fennec-nav ul {    display: none !important;}
+.logo img {    width: 100% !important;}
+.navigation {    text-align: right !important;}
+.slider-content {        z-index: 9 !important;        position: relative !important;        top: 170px !important;        width: 100% !important;        max-width: 100% !important;}
+.why-proactive_inner {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;    margin-bottom: 30px !important;}
+.small-widget {    width: 50% !important;    flex: auto !important;    max-width: 50% !important;    margin-bottom: 30px !important;}
+.small-link {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+.widget_contact .email a{    word-wrap: break-word;}
+/*.blog .swiper-slide{flex-direction: column;}
+.blog .swiper-slide .img-over{width: 100% !important;}
+.blog .swiper-slide{width: 100% !important;}*/
+.related_content p {    text-align: justify !important;}
+.our-key-offering_inner span { font-size: 18px !important;}
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+nav.mobile-menu {    display: block !important;}
+nav.mobile-menu {        display: block !important;       position: absolute;        top: -39px;        right: 15px;}
+.fennec-nav ul {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+div#whatsapp {    display: none !important;}
+.enquiry {    display: none !important;}
+.logo img {    width: 30% !important;}
+.breadcumb{    padding-left: 15px !important;}
+.single-service-sidebar {    margin-top: 30px !important;}
+img#toTop {    display: none !important;}
+.inner-header{    background-position: 96% 50% !important;         height: 55vh !important;}
+.about-img-side {    margin-bottom: 10px !important;}
+.about-content-side h2 {    font-size: 22px !important;}
+.why-proactive_inner {    margin-bottom: 15px !important;}
+.contact-text-1 {    margin-bottom: 30px !important;}
+.contact-info-section{    padding: 15px !important;}
+.slider-content{flex: auto !important;     max-width: 100% !important; top: 50px !important;         padding-left: 15px !important;}
+header{height: 78vh !important;}
+.inner-states {    margin-bottom: 15px !important;}
+.half-img-side {    margin-bottom: 30px !important;}
+.full-width-content .row {    margin-bottom: 30px !important;    padding-bottom: 30px !important;}
+.mobile-three-item{display: block !important;}
+.map .row {    gap: 20px !important;}
+.slider-content p {    padding-right: 100px !important;}
+header .slider-content {    padding-top: 75px !important;}
+.about-us .row-grid {    display: flex !important;    flex-direction: column !important;}
+.about-us .about-img-side{ width: 100% !important; }
+.solution .row {    gap: 30px !important;}
+.why-proactive .row {    gap: 30px !important;}
+.why-proactive .title p {    color: #ffff !important; padding-top: 20px !important; text-align: justify !important}
+}
+
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+nav.mobile-menu {    display: block !important;}
+nav.mobile-menu {        display: block !important;       position: absolute;        top: -40px;        right: 15px;}
+.fennec-nav ul {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+div#whatsapp {    display: none !important;}
+.enquiry {    display: none !important;}
+.logo img {    width: 45% !important;}
+.breadcumb{    padding-left: 15px !important;}
+.single-service-sidebar {    margin-top: 30px !important;}
+img#toTop {    display: none !important;}
+.inner-header{    background-position: 96% 50% !important;         height: 44vh !important;}
+.about-img-side {    margin-bottom: 10px !important;}
+.about-content-side h2 {    font-size: 19px !important;}
+.why-proactive_inner {    margin-bottom: 15px !important;}
+.contact-text-1 {    margin-bottom: 30px !important;}
+.contact-info-section{    padding: 15px !important;}
+.slider-content{flex: auto !important;     max-width: 100% !important; top: 40px !important;         padding-left: 15px !important;}
+header{height: 45vh !important;}
+.inner-states {    margin-bottom: 15px !important;}
+.half-img-side {    margin-bottom: 30px !important;}
+.full-width-content .row {    margin-bottom: 30px !important;    padding-bottom: 30px !important;}
+.mobile-three-item{display: block !important;}
+.mobile-three-item li a{font-size: 11px !important;}
+.slider-content p {    display: none !important;}
+.slider-content h1 {    font-size: 21px !important;}
+.our-key-offering_inner .shadow-bg{    padding: 25px 15px !important;}
+.blog .title h2{font-size: 22px !important;}
+.ziehharmonika span{font-size: 15px !important;}
+.small-widget {    margin-bottom: 30px !important;}
+.full-width-type h3{font-size: 20px !important;}
+.states {    padding: 0 !important;}
+.full-pattern {    padding: 0 !important;}
+.box-product {    margin-bottom: 15px !important;}
+.about-us .row-grid {    display: flex !important;    flex-direction: column !important;}
+.about-us .about-img-side{ width: 100% !important; }
+.solution .row {    gap: 20px !important;}
+.why-proactive .row {    gap: 20px !important;}
+.why-proactive .title p {    color: #ffff !important; padding-top: 20px !important; text-align: justify !important;}
+section.our-key-offering .title h3  {font-size: 22px !important;}
+.section-full {    padding-top: 20px !important;}
+.half-content-side h2{ font-size: 18px !important;} 
+.full-pattern h2{ font-size: 18px !important;}
+header{ background-attachment: local !important;}
+.left-side-widget img{ width: 70% !important;}
+.about-content-side h2{font-size: 18px !important;}
+.about-content-side h3{font-size: 18px !important;}
+.about-content-side h4{font-size: 18px !important;}
+.about-content-side h5{font-size: 18px !important;}
+.about-content-side h6{font-size: 18px !important;}
+.about-content-side {    padding: 0 !important;}
+
+
+}
+

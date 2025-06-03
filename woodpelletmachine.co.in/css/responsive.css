@@ -1,0 +1,392 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+.ma5menu__toggle { margin-top: 40px !important;} 
+.counterGrid span {    font-size: 15px;    font-weight: 300;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {    display: block !important; text-align: right !important;}
+.sticky-inner-pure {    width: 50%;    max-width: 50%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{font-size: 52px !important; line-height: 50px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 33% !important;    max-width: 33% !important;;    flex: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 18% !important;}
+.small-widget {    width: 50% !important; max-width: 50% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 18px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;   flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;}
+.hero-slider-1 video{height: 84vh !important;}
+.hero-slider-1 {    height: 60vh !important;}
+.hero-slider-1 {        height: 61vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 17px !important;}
+.query-form-field input{font-size: 14px !important;}
+.animation-text {    margin-top: 20px !important;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.quality-metter_inner img {    height: auto !important;}
+.quality-metter_inner h2 {    font-size: 22px !important;}
+.content_img img {    height: auto !important;}
+.image-one img {    width: 100% !important;    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.slider .slider-item img{width: 100% !important; height: auto !important;}
+a.btn-ctn{margin-top: 15px !important; display: block !important;}
+/* .overlay-side::after{height: 60vh !important;} */
+.certficate_box {    width: 50% !important;    max-width: 50% !important;   flex: auto !important;}
+.certificate {    margin-top: 35px !important;}
+.project_box {    width: 50% !important;   max-width: 50% !important;    flex: auto !important;         margin-bottom: 50px !important;}
+.product-btn ul li {    width: 100% !important;         margin-bottom: 10px;}
+.product-btn ul li a{    width: 100% !important; display: block !important;}
+.quality_box {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+.get-part {    width: 60% !important;    max-width: 60% !important;    flex: auto !important;}
+.beautypress-tab .beautypress-side-nav{    width: calc(35% - 15px) !important;}
+.beautypress-tab .beautypress-tab-text-content h3{font-size: 20px !important; margin-bottom: 10px !important;}
+.number-block-one {    margin-bottom: 50px !important;}
+.one-side-img {    margin-bottom: 40px !important;}
+.specialities-content2 .inner-content-box ul li{width: 50% !important; max-width: 50% !important;}
+.beautypress-booking-text-wraper .beautypress-border.beautypress-version-3{margin-bottom: 30px !important;}
+.content-side-logo {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;    margin-top: 30px !important;}
+.social-media-metter ul li {    margin-bottom: 15px !important;}
+.product-details_large {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.product-details_side {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;    margin-top: 30px !important;}
+.small-link {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+}
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {    display: block !important;         text-align: right !important;}
+.sticky-inner-pure {    width: 50%;    max-width: 50%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{font-size: 40px !important; line-height: 35px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 33% !important;    max-width: 33% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 18% !important;}
+.small-widget {    width: 50% !important; max-width: 50% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 18px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;}
+.hero-slider-1 video{height: 60vh !important;}
+.hero-slider-1 {    height: 60vh !important;}
+.hero-slider-1 {        height:45vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 17px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+.search-form-design {    width: 100% !important;;    max-width: 100% !important;}
+.overlay-side::after{height: 61vh;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.slider img {    width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.quality-metter_inner h2 {    font-size: 22px !important;}
+.img-box img {    height: auto !important;}
+.image-one img {    width: 100% !important;    height: auto !important;}
+.image-two img {    height: auto !important;    width: 100% !important;}
+.slider .slider-item img{width: 100% !important; height: auto !important;}
+
+.certficate_box {    width: 50% !important;    max-width: 50% !important;   flex: auto !important;}
+.certificate {    margin-top: 35px !important;}
+.project_box {    width: 50% !important;   max-width: 50% !important;    flex: auto !important;         margin-bottom: 50px !important;}
+.product-btn ul li {    width: 100% !important;         margin-bottom: 10px;}
+.product-btn ul li a{    width: 100% !important; display: block !important;}
+.quality_box {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+a.btn-ctn{margin-top: 15px !important; display: block !important;}
+
+.one-side-img {    margin-bottom: 40px !important;}
+.specialities-content2 .inner-content-box ul li{width: 50% !important; max-width: 50% !important;}
+.beautypress-booking-text-wraper .beautypress-border.beautypress-version-3{margin-bottom: 30px !important;}
+.content-side-logo {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;    margin-top: 30px !important;}
+.social-media-metter ul li {    margin-bottom: 15px !important;}
+.product-details_large {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.product-details_side {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;    margin-top: 30px !important;}
+.get-part {    width: 60% !important;    max-width: 60% !important;    flex: auto !important;}
+.beautypress-tab .tab-content .tab-pane .tabbable {flex-direction: column;}
+.beautypress-tab .beautypress-side-nav{    width: calc(100% - 15px) !important; margin-bottom: 50px !important;}
+.beautypress-tab .tab-pane .tabbable .tab-content{width: calc(100% - 15px) !important;}
+.number-block-one {    margin-bottom: 50px !important;}
+.counterGrid {    flex-direction: column !important;}
+.small-link {    width: 50% !important;    max-width: 50% !important;    flex: auto !important;}
+.counter-design .red-box img {    width: 15% !important;}
+.ma5menu__toggle {    margin-top: 20px !important;}
+
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {    display: block !important;         text-align: right !important;}
+.sticky-inner-pure {    width: 50%;    max-width: 50%;    flex: auto;}
+.navigation_inner {    width: 100% !important;  max-width: 100% !important;    flex: auto !important;}
+.animation-text p{font-size: 55px !important;         font-size: 35px !important;  line-height: 29px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 50% !important;    max-width: 50% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 30% !important;}
+.small-widget {    width: 100% !important; max-width: 100% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 17px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;         display: none !important;}
+.hero-slider-1 video{height: 52vh !important;}
+.hero-slider-1 {    height: 25vh !important;}
+.hero-slider-1 {        height: 25vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 100% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 25px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+div#whatsapp {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+a.enquiry {    display: none !important;}
+.widget-logo {    width: 50% !important;}
+.search_bar {    width: 30% !important;  text-align: right !important;}
+.navigation_design .row {    justify-content: right !important;}
+.quality-metter_inner-list {    margin-top: 50px !important;  padding-left: 15px !important;}
+.content_message {    margin-bottom: 50px !important;}
+.content_business{margin-bottom: 30px !important;}
+.slider-caption h1{font-size: 20px !important;}
+.slider-caption p{display: none !important;}
+ul.btn-list{display: none !important;}
+.overlay-side::after{    height: 38vh  !important; top: 0 !important;}
+#toTop{display: none !important;}
+.inner-states {    margin-bottom: 10px !important;}
+.full-width-content{margin-bottom: 30px !important;}
+.about-content h2 {    font-size: 24px !important;}
+.query-form {    margin-top: 30px !important;}
+.mobile-three-item{display: block !important;}
+.copy-right {    margin-bottom: 33px !important;}
+.search-form-design {    width: 100% !important;    max-width: 100% !important;}
+.slider-caption{top: 70% !important;}
+.ziehharmonika>div{    padding: 15px 15px !important;}
+.widget-logo img{width: 50% !important;}
+.half-img-side img{margin-bottom: 20px !important;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.slider img { width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.image-one {    margin-bottom: 30px !important;}
+.widget-logo {    display: none !important;}
+.fulling_part ul {    margin-bottom: 0 !important;}
+.form-design {    background: #fff !important;}
+.mobile-menu {    position: absolute !important;    right: 10px !important;   top: -43px !important;}
+
+
+a.btn-ctn{margin-top: 15px !important; display: block !important;}
+/* .overlay-side::after{height: 60vh !important;} */
+.certficate_box {    width: 50% !important;    max-width: 50% !important;   flex: auto !important;}
+.certificate {    margin-top: 35px !important;}
+.project_box {    width: 50% !important;   max-width: 50% !important;    flex: auto !important;         margin-bottom: 50px !important;}
+.product-btn ul li {    width: 100% !important;         margin-bottom: 10px;}
+.product-btn ul li a{    width: 100% !important; display: block !important;}
+.quality_box {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.logo-box {    width: 50% !important;    margin-bottom: 30px !important;}
+.certificate img{width: 70% !important;}
+.width-change {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.get-part {    display: none !important;}
+.page-title{    padding: 80px 0px !important;}
+.counterGrid {    flex-direction: column !important;}
+.beautypress-tab .tab-content .tab-pane .tabbable{flex-direction: column !important;}
+.beautypress-tab .beautypress-side-nav{    width: calc(100% - 15px) !important;}
+.beautypress-tab .tab-pane .tabbable .tab-content{    width: calc(100% - 15px) !important; margin-top: 20px !important;}
+.beautypress-tab .beautypress-tab-image{width: 100% !important; margin-bottom: 30px !important;}
+.number-block-one {    margin-bottom: 30px !important;}
+.one-side-img {    margin-bottom: 30px !important;}
+.specialities-content2 .inner-content-box ul li{max-width: 100% !important;}
+.inner-content-box ul li {    margin-bottom: 30px !important;}
+.beautypress-booking-content-text {    margin-bottom: 30px !important !important;}
+.client-box {    margin-bottom: 30px !important;}
+.tagline_type {    padding: 20px 0 !important;}
+.logo-side img {    width: auto !important;}
+.full-pattern {    margin-bottom: 30px !important;}
+.logo-side {    display: none !important;}
+.one-side-img img {    width: 100% !important;}
+.beautypress-booking-content-text { margin-bottom: 30px !important;}
+}
+
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {  display: block !important;  right: 10px !important;  position: absolute;   top: -34px;}
+.sticky-inner-pure {    width: 70%;    max-width: 70%;    flex: auto;}
+/*.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}*/
+.animation-text p{          font-size: 55px !important;    font-size: 23px !important;    line-height: 22px !important;    margin-top: 10px;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 100% !important;    max-width: 100% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 40% !important;}
+.small-widget {    width: 100% !important; max-width: 100% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 17px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;         display: none !important;}
+.hero-slider-1 video{height: 45vh !important;}
+.hero-slider-1 {    height: 25vh !important;}
+.hero-slider-1 {        height: 20vh !important; top: 42px !important; position: relative;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 100% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 25px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+div#whatsapp {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+a.enquiry {    display: none !important;}
+.widget-logo {    width: 50% !important;}
+.search_bar {    width: 30% !important;  text-align: right !important;}
+.navigation_design .row {    justify-content: right !important;}
+.quality-metter_inner-list {    margin-top: 50px !important;  padding-left: 15px !important;}
+.content_message {    margin-bottom: 50px !important;}
+.content_business{margin-bottom: 30px !important;}
+.slider-caption h1{font-size: 20px !important; display: none !important;}
+.slider-caption p{display: none !important;}
+ul.btn-list{display: none !important;}
+.overlay-side::after{    height: 20vh  !important; top: 0 !important; display: none;}
+#toTop{display: none !important;}
+.inner-states {    margin-bottom: 10px !important;}
+.full-width-content{margin-bottom: 30px !important;}
+.about-content h2 {    font-size: 24px !important;}
+.query-form {    margin-top: 30px !important;}
+.mobile-three-item{display: block !important;}
+.copy-right {    margin-bottom: 33px !important;}
+.mobile-three-item li a{font-size: 12px !important;}
+.search-form-design {    width: 100% !important;;    max-width: 100% !important;}
+.search-form-design form input{padding-left: 15px !important; font-size: 11px !important;}
+.search-form-design form input{width: 89% !important;}
+.form-contact-color{margin-top: 30px !important;}
+.white-shadow-box{display: none !important;}
+.form-contact-color p {    text-align: center !important;   font-size: 25px !important;;    color: #fff !important;;    margin-bottom: 17px !important;}
+.animation-text {    padding-bottom: 30px !important;}
+.contact-form-section-two .sec-title h2{font-size: 22px !important;}
+.full-width-type h3 {    font-size: 16px !important;}
+.quality-metter_inner-list span{font-size: 17px !important;}
+.page-title .content-box h1{line-height: 38px !important;}
+.sticky-inner-pure img{height: auto;}
+.page-title .content-box{padding-left: 0px !important;}
+.full-pattern {    padding: 0 !important;}
+.hero-slider-1 {    display: none !important;}
+#website-list ul{    column-count: 1 !important;     padding: 15px 20px !important;}
+#website-list li a {   font-size: 12px !important;}
+#website-list li{text-align: left !important;         margin-bottom: 12px;}
+
+.slider img { width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.image-one {    margin-bottom: 30px !important;}
+.widget-logo {    display: none !important;}
+.fulling_part ul {    margin-bottom: 0 !important;}
+.our-products h2 {    font-size: 21px !important;}
+.quality-metter-section h2 {    font-size: 21px !important;}
+.content_message h3 {    font-size: 20px !important;}
+.img-box img {    height: auto !important;}
+.ziehharmonika>div{    padding: 31px 15px !important;}
+.mobile-item-hide {    display: none !important;}
+.section-thumb img {    display: none !important;}
+.form-design {    background: #fff !important;}
+/*.contnet-right li:last-child {    display: none !important;}*/
+.our-cliente {    background: #fff !important;}
+
+
+
+a.btn-ctn{margin-top: 15px !important; display: block !important;}
+/* .overlay-side::after{height: 60vh !important;} */
+.certficate_box {    width: 100% !important;    max-width: 100% !important;   flex: auto !important;}
+.certificate {    margin-top: 35px !important;}
+.project_box {    width: 100% !important;   max-width: 100% !important;    flex: auto !important;         margin-bottom: 50px !important;}
+.product-btn ul li {    width: 100% !important;         margin-bottom: 10px;}
+.product-btn ul li a{    width: 100% !important; display: block !important;}
+.quality_box {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.logo-box {    width: 50% !important;    margin-bottom: 30px !important;}
+.certificate img{width: 70% !important;}
+.width-change {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.navigation_inner-part {    width: 20% !important;}
+.page-title{padding: 50px 0px !important;}
+.featured-box.style10 .featured-content{    padding-left: 10px !important;  padding-right: 10px !important;}
+.half-img-side {    margin-bottom: 30px !important;}
+.contnet-right li:nth-child(3) {    display: block !important;}
+
+.page-title{    padding: 80px 0px !important;}
+.counterGrid {    flex-direction: column !important;}
+.beautypress-tab .tab-content .tab-pane .tabbable{flex-direction: column !important;}
+.beautypress-tab .beautypress-side-nav{    width: calc(100% - 0px) !important;}
+.beautypress-tab .tab-pane .tabbable .tab-content{    width: calc(100% - 0px) !important; margin-top: 20px !important;}
+.beautypress-tab .beautypress-tab-image{width: 100% !important; margin-bottom: 30px !important;}
+.number-block-one {    margin-bottom: 30px !important;}
+.one-side-img {    margin-bottom: 30px !important;}
+.specialities-content2 .inner-content-box ul li{max-width: 100% !important;}
+.inner-content-box ul li {    margin-bottom: 30px !important;}
+.beautypress-booking-content-text {    margin-bottom: 30px !important;}
+.client-box {    margin-bottom: 30px !important;}
+.tagline_type {    padding: 20px 0 !important;}
+.logo-side img {    width: 60% !important;}
+.full-pattern {    margin-bottom: 30px !important;}
+.get-part {    display: none !important;}
+.sticky-inner-pure img {    width: 70% !important;}
+.blog-sidebar{    padding: 40px 15px !important;}
+.blog-sidebar .widget_search{    margin-left: -15px !important;}
+.about-more a{padding: 10px 20px !important;}
+.beautypress-tab .beautypress-tab-content{    padding: 15px !important;}
+.beautypress-btn-wraper ul li {    width: 100% !important; max-width: 100% !important;    text-align: center !important;    display: block !important;    margin-bottom: 10px !important;}
+.beautypress-btn-wraper a{width: 100% !important; display:block !important;}
+.large-title h3 {  font-size: 17px !important; }
+.content-side-logo span{font-size: 22px !important;}
+.large-title-block.full-content{    padding: 15px !important;}
+.animation-text { padding-top: 0 !important;}
+.one-side-img img {    width: 100% !important;}
+.sec-title .title{font-size: 27px !important;}
+.button-group input {    width: 100% !important;}
+.logo-side {    display: none !important;}
+.map .row{ gap: 20px !important;}
+.ma5menu__toggle{ top: -5px !important;} 
+h1,h2,h3,h4,h5,h6{font-size: 23px !important;}
+}

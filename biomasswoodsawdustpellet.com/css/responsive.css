@@ -1,0 +1,249 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+.logo-wrapper img {width: 30%;}
+.nav-toggle{    margin-top: -45px;}
+.navigation-portrait .nav-menus-wrapper{ background-color: #0897d0;}
+li.contact-btn{background-color: inherit;     padding-bottom: 0;}
+.heading-wrapper{max-width: 100%;}
+.new-solustion li{margin-right: 0px !important;}
+.our-services{    top: 49%;}
+.service-particle{    height: 1800px; width: 100%;}
+.testimonial-contact #form-main{    left: 0;}
+.testimonial-contact{    height: 800px;}
+.testimonial-contact #form-main{    top: -88px;}
+.carousel-item .banner-heading{    width: 100%;}
+.carousel-inner .carousel-caption{    top: 35%;}
+.our-presence li {    width: 30%;    float: left;}
+.cisco-partner img {    width: 100%;}
+div#owl-demo-product .owl-buttons {top: 585px !important; left: 45%;}
+.mobile-menu { display: block !important; position: absolute; top: -3px;}
+.nav-toggle { display: none !important;}
+.logo-wrapper img {    width: 60%;}
+.accordion__inner ul{column-count: 1 !important;}
+.part_or-center ul li {    width: 100% !important;}
+.logo-wrapper {    text-align: center !important;    width: 100%;    margin-bottom: 15px;    margin-top: 15px;}
+.parents-logo {    margin-bottom: 30px !important;}
+header.header.header_area{position: relative !important;}
+.cisco-partner {    margin-bottom: 30px !important;}
+.long-img {    height: 300px !important;}
+.blog-box-home {    margin-bottom: 30px !important;}
+div#owl-demo-client img {    width: 100% !important;    height: auto !important;}
+.certification_box img{min-height: auto !important;}
+div#form-div {    margin-top: 20px !important;}
+.view-first img{height: auto !important;}
+
+}
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+.logo-wrapper img {width: 30%;}
+.nav-toggle{    margin-top: -45px;}
+.navigation-portrait .nav-menus-wrapper{ background-color: #0897d0 !important;}
+li.contact-btn{background-color: inherit;     padding-bottom: 0;}
+.heading-wrapper{max-width: 100%;}
+.new-solustion li{margin-right: 0px !important;}
+.our-services{    top: 49%;}
+.service-particle{    height: 1800px; width: 100%;}
+.testimonial-contact #form-main{    left: 0;}
+.testimonial-contact{    height: 800px;}
+.testimonial-contact #form-main{    top: -88px;}
+.carousel-item .banner-heading{    width: 100%;}
+.carousel-inner .carousel-caption{    top: 35%;}
+.our-presence li {    width: 30%;    float: left;}
+.cisco-partner img {    width: 100%;}
+.mobile-menu { display: block !important; position: absolute; top: -3px; right: 0px;}
+.nav-toggle { display: none !important;}
+.nav-wrapper{    background-color: #2b181a !important;}
+.logo-wrapper img {    width: 60%;}
+.accordion__inner ul{column-count: 1 !important;}
+header.header.header_area{position: relative !important;}
+.cisco-partner {    margin-bottom: 30px !important;}
+.long-img {    height: 300px !important;}
+.blog-box-home {    margin-bottom: 30px !important;}
+div#owl-demo-client img {    width: 100% !important;    height: auto !important;}
+.certification_box img{min-height: auto !important;}
+.navigation{background-color: transparent !important;}
+.part_or-center ul li {    display: block !important;}
+.parents-logo {    margin-bottom: 22px !important;}
+div#owl-demo-client img {    width: 100% !important;    height: auto !important;}
+.certification_box img{min-height: auto !important;}
+div#form-div {    margin-top: 20px !important;}
+.view-first img{height: auto !important;}
+}
+
+
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.logo-wrapper img {  width: 75%;}
+.nav-toggle{    margin-top: -45px;     right: -55px;}
+.navigation-portrait .nav-menus-wrapper{ background-color: #0897d0;}
+.heading-wrapper{    max-width: 100%;}
+.only-mobile-hide img {    display: none;}
+.about-us{    background-position: 42% 63%;}
+.new-solustion ul {    padding: 0px;}
+.new-solustion li{width: 100%; margin-bottom: 35px;}
+.new-solustion ul.d-flex{display: inherit !important;}
+.our-services{    top:50%;}
+.service-particle{ height: 3000px; width: 100%;}
+/*.testimonial-contact{ height: 828px;}*/
+/*.testimonial-contact #form-main{left: 0; top: -110px;}*/
+button.slick-prev.slick-arrow {    display: none !important;}
+button.slick-next.slick-arrow {  display: none !important;}
+.nav-dropdown>li>a, .megamenu-list>li>a{width: 100%;     white-space: normal;}
+.top-email {    display: none;}
+.cisco-metter {    padding-left: 20px;    padding-right: 20px;}
+.our-presence li{width: 100%;}
+nav.social {    display: none;}
+.inner-banner .breadcrumb-wrapper{width: 100%;}
+.sitemap-ul-list li {    line-height: 30px;}
+.cisco-partner img { width: 100%;}
+.cisco-partner img {    margin-bottom: 20px;}
+div#owl-demo-product .owl-buttons {left: 42%;}
+.mobile-menu { display: block !important; position: absolute; top: -3px;}
+.nav-toggle { display: none !important;}
+.nav-wrapper{background: #2b181a;}
+a.only-top {position: relative; top: 0;}
+.accordion__inner ul{column-count: 1 !important;}
+.navigation {    background-color: transparent !important;}
+a.btn-download {    display: none !important;}
+.parents-logo {    margin-bottom: 20px !important;}
+header.header.header_area{position: relative !important;}
+.phone_lefts-side {    display: none !important;}
+.enquiry {    display: none !important;}
+.call-to-action-text h2{text-align: center !important;     margin-bottom: 25px !important;}
+.call-to-action-text a.btn{width: 100% !important;}
+.logo-box {    width: 50% !important;}
+.testimonial-section{margin-bottom: 65px !important;}
+.acheivement-wrapper {    margin-bottom: 30px !important;}
+.category-type .title {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.blog-box-home {    margin-bottom: 15px !important;}
+.banner-middle h6{font-size: 22px !important;}
+.new-solustion li{padding-bottom: 18px !important;}
+.testimonial-contact{margin-bottom: 0px !important;}
+div#form-div {    margin-top: 18px !important;}
+.nav-wrapper {        background-color: #2b181a !important;}
+div#owl-demo-product .owl-buttons{display: none !important;}
+.new-solustion ul{width: 93% !important;}
+.testimonial-contact {    margin-top: 0 !important;}
+.full-width-content .row {    margin-bottom: 30px !important;}
+.footer-2 {    margin-bottom: 36px !important;}
+.mobile-three-item{display: block !important;}
+.mobile-three-item ul {    padding: 0 !important;    margin-bottom: 0 !important;}
+.cisco-partner {    margin-bottom: 30px !important;}
+div#whatsapp {    display: none !important;}
+.details-img{width: 100% !important;}
+}
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+/*.logo-wrapper img {  width: 45%;}*/
+.nav-toggle{    margin-top: -45px;     right: -55px;}
+.navigation-portrait .nav-menus-wrapper{ background-color: #0897d0;}
+.heading-wrapper{    max-width: 100%;}
+.only-mobile-hide img {    display: none;}
+.about-us{    background-position: 42% 63%;}
+.new-solustion ul {    padding: 0px;}
+.new-solustion li{width: 100%; margin-bottom: 35px;}
+.new-solustion ul.d-flex{display: inherit !important;}
+.our-services{    top:51%;}
+.service-particle{     height: 3720px; width: 100%;}
+/*.testimonial-contact{ height: 828px;}*/
+/*.testimonial-contact #form-main{left: 0; top: -105px;}*/
+button.slick-prev.slick-arrow {    display: none !important;}
+button.slick-next.slick-arrow {  display: none !important;}
+.nav-dropdown>li>a, .megamenu-list>li>a{width: 100%;     white-space: normal;}
+.top-email {    display: none;}
+.cisco-metter {    padding-left: 20px;    padding-right: 20px;}
+.our-presence li{width: 100%;}
+nav.social {    display: none;}
+.inner-banner .breadcrumb-wrapper{width: 100%;}
+.sitemap-ul-list li {    line-height: 30px;}
+.cisco-partner img { width: 100%;}
+.cisco-partner img {  margin-bottom: 20px;}
+.about-us{background:inherit !important;}
+ul.our-solution {    padding: 0;    width: 100%;}
+ul.our-solution img {    /* display: none; */    width: 17%;}
+ul.our-solution p{text-align: left; font-size: 14px;}
+.heading{    font-size: 17px !important;}
+/*.top-phone {display: none;}*/
+div#owl-demo-product .owl-buttons { top: 240px !important; left: 35%;}
+.mobile-menu { display: block !important; position: absolute; top: -3px;}	
+.nav-toggle { display: none !important;}
+.nav-wrapper{    background-color: rgb(10, 95, 140) !important;}
+.testimonial-section{padding: 22px 0 !important;}
+.my-product-page{padding: 0px !important;}
+.my-product-page ul {padding-left: 25px !important;}
+a.only-top {position: relative; top: 0;}
+.accordion__inner ul{column-count: 1 !important;}
+.accordion__inner {text-align: justify!important;}
+.top-phone a, .top-email a {     font-size: 16px;        padding-top: 10px;}
+.navigation {    background-color: transparent !important;}
+header.header.header_area{position: relative !important;}
+.phone_lefts-side {    display: none !important;}
+.enquiry {    display: none !important;}
+.call-to-action-text h2{text-align: center !important;     margin-bottom: 25px !important; font-size: 23px !important;}
+.call-to-action-text a.btn{width: 100% !important;}
+.logo-box {    width: 50% !important;}
+.testimonial-section{margin-bottom: 65px !important;}
+.acheivement-wrapper {    margin-bottom: 30px !important;}
+.category-type .title {    width: 100% !important;    max-width: 100% !important;    flex: auto !important;}
+.blog-box-home {    margin-bottom: 15px !important;}
+.banner-middle h6{font-size: 22px !important;}
+.new-solustion li{padding-bottom: 18px !important;}
+.testimonial-contact{margin-bottom: 0px !important;}
+.cisco-partner-logo {    margin-bottom: 25px !important;}
+.part_or-center ul li {    display: block !important;}
+.part_or-center ul {    padding: 0 !important;}
+a.btn-download{    margin-top: 12px !important;}
+div#owl-demo-product .owl-buttons{display: none !important;}
+.new-solustion ul{width: 93% !important;}
+.testimonial-contact {    margin-top: 0 !important;}
+.full-width-content .row {    margin-bottom: 30px !important;}
+
+.full-width-content .row {    margin-bottom: 30px !important;}
+.footer-2 {    margin-bottom: 36px !important;}
+.mobile-three-item{display: block !important;}
+.mobile-three-item ul {    padding: 0 !important;    margin-bottom: 0 !important;}
+.cisco-partner {    margin-bottom: 30px !important;}
+.logo-wrapper img {    width: 80% !important;}
+.nav-wrapper{    background-color: #2b181a !important;}
+.mobile-three-item li a{font-size: 12px !important;}
+.contact-page-form {padding: inherit !important;}
+.contact-info-item{min-height: auto !important;}
+.long-img img{height: auto !important;}
+.long-img{height: auto !important;}
+a.info {display: none !important;}
+div#whatsapp {    display: none !important;}
+.details-img{width: 100% !important;}
+.about-us-content h2 {    font-size: 18px !important;}
+.products-home h3 {    font-size: 25px !important;}
+.our-solutions h2 {    font-size: 25px !important;}
+.achievements h5 {    font-size: 25px !important;}
+.testimonial-section h6{font-size: 24px !important;}
+.accordion__box-home h6 {    font-size: 25px !important;}
+.product-desc {    padding: 0 !important;}
+div#form-div {    margin-top: 25px !important;}
+.inner-banner h1 {    font-size: 30px !important;    margin-bottom: 18px !important;}
+}
+
+@media (max-width: 991.98px) {
+.my-product-page{		margin: 65px 10px 0;	}
+a.btn.btn-primary.product-enquiry-btn {    text-align: center;    display: inline-block;    margin: 10px auto;}
+}
+@media (max-width:768px){
+.footer-heading{		margin-top: 20px;	}
+/*.top-phone.only-mobile-hide{		display: none;	}*/
+.navigation-portrait .nav-toggle{		display: block;		width: 100%;		margin:0;		padding: 20px 2px 0;		position: relative;		top: auto;		right: auto;		height: 60px;	}
+.navigation{		background-color: #fff;	}
+.nav-wrapper{		background-color: #fff;	}
+.logo-wrapper.text-left{		text-align: center!important;		margin-bottom: 15px;}
+}
+/*@media (max-width: 575.98px) {
+.logo-wrapper img{		width: 85%!important;	}
+}*/
+
+@media (max-width: 768px) {
+.inner-banner .heading{	font-size: 26px;	}
+.cisco-partner img {    width: 50%;    display: block;    margin: 0 auto;	}
+.about-us .heading {    font-size: 25px;	margin-bottom: 15px;    text-align: center;	}
+.about-us p{		text-align: justify;	}
+.about-us .view-all-btn-wrapper {    text-align: center;}
+}

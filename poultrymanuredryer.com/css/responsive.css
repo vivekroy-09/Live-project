@@ -1,0 +1,312 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu { display: block !important;  position: relative !important; top: -11px !important;}
+.sticky-inner-pure {    width: 30%;    max-width: 30%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{font-size: 70px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 33% !important;    max-width: 33% !important;;    flex: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 18% !important;}
+.small-widget {    width: 50% !important; max-width: 50% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 18px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;}
+.hero-slider-1 video{height: 84vh !important;}
+.hero-slider-1 {    height: 60vh !important;}
+.hero-slider-1 {        height: 61vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 17px !important;}
+.query-form-field input{font-size: 14px !important;}
+.animation-text {    margin-top: 20px !important;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.quality-metter_inner img {    height: auto !important;}
+.quality-metter_inner h2 {    font-size: 22px !important;}
+.content_img img {    height: auto !important;}
+.image-one img {    width: 100% !important;    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.slider .slider-item img{width: 100% !important; height: auto !important;}
+.sticky .row {    justify-content: space-between;}
+.search_bar { position: relative !important; top: 20px !important;}
+.widget_contact .email a{    word-break: break-all !important;}
+.small-link {width: 100% !important; flex: auto !important;  max-width: 100% !important;}
+}
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {        display: block !important; position: relative !important;  top: -10px !important;}
+.sticky-inner-pure {    width: 30%;    max-width: 30%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{font-size: 55px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 33% !important;    max-width: 33% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 18% !important;}
+.small-widget {    width: 50% !important; max-width: 50% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 18px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;}
+.hero-slider-1 video{height: 60vh !important;}
+.hero-slider-1 {    height: 60vh !important;}
+.hero-slider-1 {        height:45vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 17px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+.search-form-design {    width: 100% !important;;    max-width: 100% !important;}
+.overlay-side::after{height: 61vh;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.slider img {    width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.quality-metter_inner h2 {    font-size: 22px !important;}
+.img-box img {    height: auto !important;}
+.image-one img {    width: 100% !important;    height: auto !important;}
+.image-two img {    height: auto !important;    width: 100% !important;}
+.slider .slider-item img{width: 100% !important; height: auto !important;}
+
+.sticky .row {    justify-content: space-between;}
+.search_bar { position: relative !important; top: 20px !important;}
+.widget_contact .email a{    word-break: break-all !important;}
+.small-link {width: 100% !important; flex: auto !important;  max-width: 100% !important;}
+
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {display: block !important;  position: absolute; top: -7px; right: 15px;}
+.sticky-inner-pure {    width: 50%;    max-width: 50%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{font-size: 55px !important;         font-size: 35px !important;  line-height: 29px !important;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 50% !important;    max-width: 50% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 30% !important;}
+.small-widget {    width: 100% !important; max-width: 100% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 17px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;         display: none !important;}
+.hero-slider-1 video{height: 52vh !important;}
+.hero-slider-1 {    height: 25vh !important;}
+.hero-slider-1 {        height: 25vh !important; top: 42px !important;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 25px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+div#whatsapp {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+a.enquiry {    display: none !important;}
+.widget-logo {    width: 50% !important;}
+.search_bar {    width: 30% !important;  text-align: right !important;}
+.navigation_design .row {    justify-content: right !important;}
+.quality-metter_inner-list {    margin-top: 50px !important;  padding-left: 15px !important;}
+.content_message {    margin-bottom: 50px !important;}
+.content_business{margin-bottom: 30px !important;}
+.slider-caption h1{font-size: 20px !important;}
+.slider-caption p{display: none !important;}
+ul.btn-list{display: none !important;}
+.overlay-side::after{    height: 38vh  !important; top: 0 !important;}
+#toTop{display: none !important;}
+.inner-states {    margin-bottom: 10px !important;}
+.full-width-content{margin-bottom: 30px !important;}
+.about-content h2 {    font-size: 24px !important;}
+.query-form {    margin-top: 30px !important;}
+.mobile-three-item{display: block !important;}
+.copy-right {    margin-bottom: 33px !important;}
+.search-form-design {    width: 100% !important;    max-width: 100% !important;}
+.slider-caption{top: 70% !important;}
+.ziehharmonika>div{    padding: 15px 15px !important;}
+.widget-logo img{width: 50% !important;}
+.half-img-side img{margin-bottom: 20px !important;}
+#website-list ul{    column-count: 1 !important;}
+#website-list li{text-align: left !important;   margin-bottom: 12px;}
+.slider img { width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.image-one {    margin-bottom: 30px !important;}
+.widget-logo {    display: none !important;}
+.fulling_part ul {    margin-bottom: 0 !important;}
+.form-design {    background: #fff !important;}
+.navigation_inner {    display: none !important;}
+.service-block-six {width: 100% !important; max-width: 100% !important;  flex: auto !important;}
+.map .container .row {    gap: 15px !important;}
+}
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+.fennec-nav {    display: none !important;}
+.contnet-right {    width: 100% !important;  max-width: 100% !important;;    flex: auto !important;}
+.contnet-right ul {    text-align: center !important;}
+/*.sticky-inner-pure img {    width: 100% !important;}
+.get-in-toch {    width: 30% !important;    max-width: 30% !important;; flex: auto !important;}*/
+nav.mobile-menu {     display: block !important;        right: 18px !important;    text-align: right;    position: absolute;    top: -7px;}
+.sticky-inner-pure {    width: 50%;    max-width: 50%;    flex: auto;}
+.navigation_inner {    width: 30% !important;  max-width: 30% !important;    flex: auto !important;}
+.animation-text p{          font-size: 55px !important;    font-size: 23px !important;    line-height: 22px !important;    margin-top: 10px;}
+.slick-dotted.slick-slider {    margin-bottom: 0 !important;}
+.products-box {    width: 100% !important;    max-width: 100% !important;;    flex: auto !important;}
+.title-design a{font-size: 15px !important;}
+.half-design-get-touch > span{font-size: 23px !important;}
+.half-design-get-touch> p{font-size: 20px !important; line-height: 25px !important;}
+.input-design{width: 100% !important;     margin-bottom: 10px !important;}
+.client-box ul li{width: 40% !important;}
+.small-widget {    width: 100% !important; max-width: 100% !important;    flex: auto !important;         margin-bottom: 30px !important;}
+.widget-logo ul li{font-size: 18px !important;}
+.widget-logo ul li a{font-size: 17px !important;}
+.navigation_design {    width: 60% !important;;  max-width: 60% !important;;    flex: auto !important;         text-align: right !important;}
+.get-in-toch {    width: 50%;    flex: auto;    max-width: 50%;         display: none !important;}
+.hero-slider-1 video{height: 45vh !important;}
+.hero-slider-1 {    height: 25vh !important;}
+.hero-slider-1 {        height: 20vh !important; top: 42px !important; position: relative;}
+.inner-left-side-product li{width: 100% !important; display: block !important;}
+ul.coloring li a{width: 100% !important; display: block !important; margin-bottom: 10px !important;}
+.service-block-six {    width: 50% !important;}
+.pdf-btn ul li:last-child{width: 100% !important; margin-top: 10px;}
+.pdf-btn ul li:first-child{width: 100% !important;}
+.query-form p{font-size: 25px !important;}
+.query-form-field input{font-size: 14px !important;}
+.products-heading h4 {    font-size: 24px !important;}
+.widget_contact .email a{    word-break: break-word !important;}
+div#whatsapp {    display: none !important;}
+.phone_lefts-side.glow {    display: none !important;}
+a.enquiry {    display: none !important;}
+.widget-logo {    width: 50% !important;}
+.search_bar {    width: 30% !important;  text-align: right !important;}
+.navigation_design .row {    justify-content: right !important;}
+.quality-metter_inner-list {    margin-top: 50px !important;  padding-left: 15px !important;}
+.content_message {    margin-bottom: 50px !important;}
+.content_business{margin-bottom: 30px !important;}
+.slider-caption h1{font-size: 20px !important; display: none !important;}
+.slider-caption p{display: none !important;}
+ul.btn-list{display: none !important;}
+.overlay-side::after{    height: 20vh  !important; top: 0 !important; display: none;}
+#toTop{display: none !important;}
+.inner-states {    margin-bottom: 10px !important;}
+.full-width-content{margin-bottom: 30px !important;}
+.about-content h2 {    font-size: 24px !important;}
+.query-form {    margin-top: 30px !important;}
+.mobile-three-item{display: block !important;}
+.copy-right {    margin-bottom: 33px !important;}
+.mobile-three-item li a{font-size: 12px !important;}
+.search-form-design {    width: 100% !important;;    max-width: 100% !important;}
+.search-form-design form input{padding-left: 15px !important; font-size: 11px !important;}
+.search-form-design form input{width: 89% !important;}
+.form-contact-color{margin-top: 30px !important;}
+.white-shadow-box{display: none !important;}
+.form-contact-color p {    text-align: center !important;   font-size: 25px !important;;    color: #fff !important;;    margin-bottom: 17px !important;}
+.animation-text {    padding-bottom: 30px !important;}
+.contact-form-section-two .sec-title h2{font-size: 22px !important;}
+.full-width-type h3 {    font-size: 16px !important;}
+.quality-metter_inner-list span{font-size: 17px !important;}
+.page-title .content-box h1{line-height: 38px !important;}
+.sticky-inner-pure img{height: auto; width: 100% !important;}
+.page-title .content-box{padding-left: 0px !important;}
+.full-pattern {    padding: 0 !important;}
+.hero-slider-1 {    display: none !important;}
+#website-list ul{    column-count: 1 !important;     padding: 15px 20px !important;}
+#website-list li a {   font-size: 12px !important;}
+#website-list li{text-align: left !important;         margin-bottom: 12px;}
+.slider img { width: 100% !important;    height: auto !important;}
+.products-box img {    width: 100% !important;    height: auto !important;}
+.quality-metter_inner img {    height: auto !important;}
+.image-two img {    width: 100% !important;    height: auto !important;}
+.image-one {    margin-bottom: 30px !important;}
+.widget-logo {    display: none !important;}
+.fulling_part ul {    margin-bottom: 0 !important;}
+.our-products h2 {    font-size: 21px !important;}
+.quality-metter-section h2 {    font-size: 21px !important;}
+.content_message h3 {    font-size: 20px !important;}
+.img-box img {    height: auto !important;}
+.ziehharmonika>div{    padding: 31px 15px !important;}
+.mobile-item-hide {    display: none !important;}
+.section-thumb img {    display: none !important;}
+.form-design {    background: #fff !important;}
+.contnet-right li:last-child {    display: none !important;}
+.our-cliente {    background: #fff !important;}
+.pro-co2 {    width: 85%;}
+.pro-co2 img {    width: 100%;    height: auto;}	
+.pro-co2-k {    width: 85%;}
+.full-pattern p {    text-align: left;}
+.home-v{clear:both;}	
+.home-v iframe{ margin: 0 0 30px 0px;}
+.space-1 {    margin: 75px 10px 0 10px;}
+.space-p{        padding: 0 20px 0 20px;}
+.product-s {    width: 90%;    margin: auto;}
+.pro-l {    width: 100%;}
+.pro-r {width: 100%;float: left;margin: 10px 0 0 0px;}
+.slider-sp {    margin: 0 0 0 0px;}
+.pro-0r {    width: 100%;	    margin: 20px 0 0 0px;}
+.pro-co1 {    width: 100%;	margin: 0 26px 30px 0px;}
+.pro-0l {    width: 100%;	margin: 50px 0 0px 0px;}
+.pro-co {    width: 100%;   margin: 0 0 10px 0px;}
+.w-p {padding: 0 20px;}
+.page-t {    width: 100%;    padding: 20px 0 40px 0px;}
+.icon-p img {    margin: auto;    display: block;}
+.icon-p {   text-align: center;   width: 47%;}
+.ap-col {    width: 100%;    height: auto;}
+.ap-col img {  width: 30%;}
+footer{margin:50px 0 0 0px;}
+.logo-img {    margin: -12px 0 0 0px;}
+.fs-4 {    text-align: center;    padding: 0 10px;}
+.our-products .fs-5 {    font-size: 28px !important;    padding: 0 10px;}
+.text-s {    padding: 40px 0 20px 0px;}
+.count-n {    height: auto;}
+.quality-metter-section .fs-6 {    font-size: 28px !important;}
+.pb-res{padding: 120px 0 0 0px;}
+.col-sm-8 .icon-p {    width: 47%;}
+.product-gallery {    margin: 25px auto;}
+.service-block-six {width: 100% !important; max-width: 100% !important;  flex: auto !important;}
+
+.navigation_inner {    display: none !important;}
+.service-block-six {width: 100% !important; max-width: 100% !important;  flex: auto !important;}
+.sticky { padding: 10px 0 !important;}
+.company-title{font-size: 18px !important;}
+.page-title{padding: 85px 0px !important;}
+.half-img-side {    margin-bottom: 30px !important;}
+.company-title{ padding: 0px 17px !important;}
+.map .container .row {    gap: 15px !important;}
+.heighlight-section{ padding-top: inherit !important;}
+
+}
